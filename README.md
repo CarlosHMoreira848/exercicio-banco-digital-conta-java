@@ -1,2 +1,16 @@
-# exercicio-banco-digital-conta-java
-Exercício de um sistema que simula um sistema bancário simples com a criação de uma classe e instâncias dessa classe.
+# Sistema: Simulando um sistema bancário digital!
+- Data: 08/02/2024
+- Contexto: Formação CÓDIGO DE BASE da Educ360° em parceria com a Foursys! | Curso CDB - Java Back-End
+- O que é: Um sistema de baixa complexidade que simula um sistema bancário simples com a criação de uma classe e instâncias dessa classe.
+- Temas envolvidos:
+  - Variáveis;
+  - Saída de dados: System.out.println();
+  - Criação de objetos;
+  - Criação de classes;
+  - Passagem de parâmetros na criação de objetos;
+  - Método construtor;
+  - Modificadores de acesso: 'privado' e 'público';
+  - Chamada de métodos na classe principal;
+  - Métodos getters e métodos setters;
+  - Operadores relacionais;
+  - Operadores aritméticos;
